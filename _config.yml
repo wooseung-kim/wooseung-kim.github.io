@@ -9,6 +9,8 @@ email: wooseung.kim (at) kaist.ac.kr
 keywords: wooseung
 description: Personal page of Wooseung Kim, a M.S. student in Bio & Brain Engineering at KAIST.
 canonical: https://wooseung-kim.github.io/
+url: https://wooseung-kim.github.io
+baseurl: ""
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -43,6 +45,9 @@ google_analytics: G-ED268WHBM1
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
+
+plugins:
+  - jekyll-sitemap
 
 # The following files will be removed from the generated website.
 exclude:
