@@ -8,9 +8,7 @@ I am an M.S. student in the [MRI Lab](https://mri.kaist.ac.kr/) at [KAIST](https
 
 ## Research Interests
 
-- **Medical Image Analysis:** image segmentation, image generation
-- **Magnetic Resonance Imaging (MRI):** reconstruction and acceleration
-- **Computer Vision:** image translation, generative models
+- **Medical Image Analysis:** MRI, Segmentation, Generation, Registration
 
 ## News
 
@@ -18,12 +16,16 @@ I am an M.S. student in the [MRI Lab](https://mri.kaist.ac.kr/) at [KAIST](https
 
 ## Education
 
-- **Bio & Brain Engineering Master's degree** Feb.2025 - Feb.2027
-- **Biomedical Engineering Bachelor's degree** Mar.2018 - Feb.2025 (Military Service 2020-2021)
+- **Bio & Brain Engineering Master's degree**  
+&emsp; Feb.2025 - Feb.2027
+- **Biomedical Engineering Bachelor's degree**  
+&emsp; Mar.2018 - Feb.2025 (Military Service 2020-2021)
 
 ## Awards
 
-- **MICCAI2024** Enlarged Perivascular Spaces (EPVS) Segmentation Challenge - Thrid Place
+- **MICCAI2025** TopBrain2025 Brain Vessel Segmentation Challenge - First Place in both MRA and CTA tasks
+
+- **MICCAI2024** Enlarged Perivascular Spaces (EPVS) Segmentation Challenge - Third Place
 
 
 
