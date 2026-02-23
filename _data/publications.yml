@@ -1,22 +1,26 @@
-main:
+sections:
+  - subtitle: Journal Articles
+    items:
+      - title: Label-Preserving Data Augmentation for Robust Segmentation of Thin Structure in MRI
+        authors: <strong>Wooseung Kim</strong>, Yeonah Kang, Seokhwan Lee, Ho-Joon Lee, and Yoonho Nam
+        conference_short: iMRI
+        conference: Investigative Magnetic Resonance Imaging (iMRI), 2024
+        pdf: https://www.i-mri.org/search.php?where=aview&id=10.13104/imri.2024.0014&code=1040IMRI&vmode=FULL
+        # code: https://github.com/MrGiovanni/ContinualLearning
+        # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+        bibtex: ./assets/bibtex/imri.txt
+        image: ./assets/img/imri.jpg
+        # notes: Early Accept
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - subtitle: Conference Papers
+    items:
+      - title: Deep Learning-Based Topology-Preserving Inner Ear Subregion Segmentation in MRI
+        authors: <strong>Wooseung Kim</strong>, Dayeon Bak, Yeonah Kang, Ho-Joon Lee, and Yoonho Nam
+        conference_short: ISMRM
+        conference: International Society for Magnetic Resonance in Medicine (ISMRM), 2025
+        pdf: https://archive.ismrm.org/2025/4315.html
+        # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+        # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+        bibtex: ./assets/bibtex/ismrm2025.txt
+        # notes: Oral presentation
+        image: ./assets/img/ismrm2025.png

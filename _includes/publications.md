@@ -1,9 +1,12 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
+{% for section in site.data.publications.sections %}
+
+<h3 style="margin: 18px 0px 6px;">{{ section.subtitle }}</h3>
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in section.items %}
 
 <li>
 <div class="pub-row">
@@ -48,4 +51,5 @@
 {% endfor %}
 
 </ol>
+{% endfor %}
 </div>
