@@ -612,3 +612,10 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+@media print, screen and (max-width: 960px) {
+  .awards-links {
+    display: block;
+    margin-top: 0.35rem;
+  }
+}
