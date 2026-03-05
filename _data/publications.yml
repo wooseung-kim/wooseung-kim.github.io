@@ -20,5 +20,4 @@ sections:
         pdf: https://archive.ismrm.org/2025/4315.html
         # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
         # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-        bibtex: ./assets/bibtex/ismrm2025.txt
         # notes: Oral presentation
