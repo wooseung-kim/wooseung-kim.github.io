@@ -18,9 +18,9 @@ I am an M.S. student in the [MRI Lab](https://mri.kaist.ac.kr/) at [KAIST](https
 ## Education
 
 - **KAIST, Bio & Brain Engineering Master's degree**  
-&emsp; Mar.2025 - Feb.2027
+&emsp; Mar.2025 -- Feb.2027
 - **HUFS, Biomedical Engineering Bachelor's degree**  
-&emsp; Mar.2018 - Feb.2025 (Military Service 2020-2021)
+&emsp; Mar.2018 -- Feb.2025 (Military Service 2020-2021)
 
 {% include_relative _includes/publications.md %}
 
