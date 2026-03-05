@@ -1,0 +1,9 @@
+@article{kim2024label,
+  title={Label-Preserving Data Augmentation for Robust Segmentation of Thin Structure in MRI},
+  author={Kim, Wooseung and Kang, Yeonah and Lee, Seokhwan and Lee, Ho-Joon and Nam, Yoonho},
+  journal={Investigative Magnetic Resonance Imaging},
+  volume={28},
+  number={3},
+  pages={107--113},
+  year={2024}
+}

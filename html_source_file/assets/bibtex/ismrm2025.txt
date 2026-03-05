@@ -1,0 +1,4 @@
+@article{kimdeep,
+  title={Deep Learning-Based Topology-Preserving Inner Ear Subregion Segmentation in MRI},
+  author={Kim, Wooseung and Bak, Dayeon and Kang, Yeonah and Lee, Ho-Joon and Nam, Yoonho}
+}
