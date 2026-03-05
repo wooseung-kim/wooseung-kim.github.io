@@ -9,7 +9,6 @@ sections:
         # code: https://github.com/MrGiovanni/ContinualLearning
         # page: https://class-il.mpi-inf.mpg.de/mnemonics/
         bibtex: ./assets/bibtex/imri.txt
-        image: ./assets/img/imri.jpg
         # notes: Early Accept
 
   - subtitle: Conference Papers
@@ -23,4 +22,3 @@ sections:
         # page: https://class-il.mpi-inf.mpg.de/mnemonics/
         bibtex: ./assets/bibtex/ismrm2025.txt
         # notes: Oral presentation
-        image: ./assets/img/ismrm2025.png
