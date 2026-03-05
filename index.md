@@ -26,13 +26,11 @@ I am an M.S. student in the [MRI Lab](https://mri.kaist.ac.kr/) at [KAIST](https
 
 ## Awards
 
-- <strong>TopBrain2025 Challenge</strong> (Multi-Class Brain Vessel Segmentation, <strong>MICCAI 2025</strong>)
-  <span class="awards-links"><a href="./assets/pdf/topbrain.pdf" class="btn btn-sm z-depth-0 challenge-paper-btn" role="button" target="_blank">Certificate</a></span>
+- <strong>TopBrain2025 Challenge</strong> (Multi-Class Brain Vessel Segmentation, <strong>MICCAI 2025</strong>) <a href="./assets/pdf/topbrain.pdf" class="btn btn-sm z-depth-0 challenge-paper-btn" role="button" target="_blank">Certificate</a>
 
 &emsp; &emsp; 🥇 **1st Place** on both MRA and CTA tasks
 
-- **EPVS2024 Challenge** (Enlarged Perivascular Space Segmentation, **MICCAI 2024**)
-  <span class="awards-links"><a href="https://arxiv.org/abs/2512.18197" class="btn btn-sm z-depth-0 challenge-paper-btn" role="button" target="_blank">Paper</a> <a href="./assets/pdf/epvs.pdf" class="btn btn-sm z-depth-0 challenge-paper-btn" role="button" target="_blank">Certificate</a></span>
+- **EPVS2024 Challenge** (Enlarged Perivascular Space Segmentation, **MICCAI 2024**) <a href="https://arxiv.org/abs/2512.18197" class="btn btn-sm z-depth-0 challenge-paper-btn" role="button" target="_blank">Paper</a> <a href="./assets/pdf/epvs.pdf" class="btn btn-sm z-depth-0 challenge-paper-btn" role="button" target="_blank">Certificate</a>
 
 &emsp; &emsp; 🥉 **3rd Place**
 
