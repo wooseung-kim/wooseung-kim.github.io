@@ -1,0 +1,15 @@
+@article{https://doi.org/10.1002/nbm.70266,
+author = {Kim, Wooseung and Kang, Yeonah and Lee, Seokhwan and Lee, Ho-Joon and Nam, Yoonho},
+title = {Deep Learning-Based Inner Ear Subregion Segmentation in 3D T2-Weighted MRI Using Label-Preserving Data Augmentation},
+journal = {NMR in Biomedicine},
+volume = {39},
+number = {4},
+pages = {e70266},
+keywords = {deep learning, inner ear, MRI, segmentation, semicircular canals},
+doi = {https://doi.org/10.1002/nbm.70266},
+url = {https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.70266},
+eprint = {https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/pdf/10.1002/nbm.70266},
+note = {e70266 5995856},
+abstract = {ABSTRACT Inner ear segmentation supports the diagnosis and treatment planning of auditory-related disorders such as Meniere's disease. However, manual annotation of inner ear structures on MR images is both time-consuming and labor-intensive. To address this limitation, we developed a deep learning method that takes T2-weighted MR images as input and segments the inner ear into three subregions: the cochlear basal turn, the cochlear mid-to-apical turn, and the vestibule including the semicircular canals. A total of 74 three-dimensional (3D) T2-weighted MR images were retrospectively collected and divided into 50 training cases and 24 internal test cases. In addition, eight MR images from the publicly available Vestibular-Schwannoma-SEG dataset were used as an independent external test set. Ground-truth segmentations for both the internal and external datasets were manually annotated by an experienced radiologist. A 3D transformer-based deep learning model was trained using these annotated data. To further improve segmentation performance, particularly for the thin and intricate semicircular canals, a label-preserving data augmentation strategy was introduced and compared with a conventional data augmentation approach. Segmentation performance was evaluated using quantitative and qualitative assessments. Quantitative evaluation included the Dice similarity coefficient (DSC), Intersection over union (IoU), and Hausdorff distance (HD). On the internal test set, the proposed method achieved a mean DSC of 0.905 (vs. 0.904), a mean IoU of 0.828 (vs. 0.824), and a mean HD of 2.75 (vs. 3.04) compared with the conventional augmentation approach. On the external dataset, the proposed method demonstrated larger improvements, achieving a mean DSC of 0.919 (vs. 0.847), a mean IoU of 0.852 (vs. 0.738), and a mean HD of 3.92 (vs. 4.45). These results demonstrate that the proposed label-preserving data augmentation method improves the robustness and accuracy of inner ear subregion segmentation, particularly for thin and intricate structures.},
+year = {2026}
+}

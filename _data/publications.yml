@@ -1,6 +1,15 @@
 sections:
   - subtitle: Journal Articles
     items:
+      - title: Deep Learning-Based Inner Ear Subregion Segmentation in 3D T2-Weighted MRI Using Label-Preserving Data Augmentation
+        authors: <strong>Wooseung Kim</strong>, Yeonah Kang, Seokhwan Lee, Ho-Joon Lee, and Yoonho Nam
+        # conference_short: iMRI
+        conference: NMR in Biomedicine, 2026
+        pdf: https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.70266
+        code: https://github.com/wooseung-kim/InnerEar-Seg
+        # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+        bibtex: ./assets/bibtex/nmr.txt
+
       - title: Label-Preserving Data Augmentation for Robust Segmentation of Thin Structure in MRI
         authors: <strong>Wooseung Kim</strong>, Yeonah Kang, Seokhwan Lee, Ho-Joon Lee, and Yoonho Nam
         conference_short: iMRI
@@ -9,7 +18,6 @@ sections:
         # code: https://github.com/MrGiovanni/ContinualLearning
         # page: https://class-il.mpi-inf.mpg.de/mnemonics/
         bibtex: ./assets/bibtex/imri.txt
-        # notes: Early Accept
 
   - subtitle: Conference Papers
     items:
