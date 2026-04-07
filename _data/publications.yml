@@ -29,3 +29,4 @@ sections:
         # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
         # page: https://class-il.mpi-inf.mpg.de/mnemonics/
         # notes: Oral presentation
+        bibtex: ./assets/bibtex/ismrm2025.txt
