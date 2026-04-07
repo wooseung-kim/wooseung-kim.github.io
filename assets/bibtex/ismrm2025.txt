@@ -1,4 +1,11 @@
-@article{kimdeep,
-  title={Deep Learning-Based Topology-Preserving Inner Ear Subregion Segmentation in MRI},
-  author={Kim, Wooseung and Bak, Dayeon and Kang, Yeonah and Lee, Ho-Joon and Nam, Yoonho}
+@inproceedings{Kim2025_d79064bb,
+  title = {Deep Learning-Based Topology-Preserving Inner Ear Subregion Segmentation in MRI},
+  author = {Kim, Wooseung and Bak, Dayeon and Kang, Yeonah and Lee, Ho-Joon and Nam, Yoonho},
+  booktitle = {2025 ISMRM and ISMRT Annual Meeting and Exhibition},
+  year = {2025},
+  month = {May},
+  address = {Honolulu, HI, United States of America},
+  organization = {ISMRM},
+  note = {Program Number: 4315},
+  url = {http://echo.ismrm.org/abstracts/view/d79064bb-8ac0-4cb5-bc66-2ae5abd2bc26}
 }
