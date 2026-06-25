@@ -26,7 +26,7 @@ I am an M.S. student in the [MRI Lab](https://mri.kaist.ac.kr/) at [KAIST](https
 
 ## Awards
 
-- **TopBrain2025 Challenge** <em>(Multi-Class Brain Vessel Segmentation, MICCAI 2025)</em> <span class="awards-links"><a href="./assets/pdf/topbrain.pdf" class="btn btn-sm z-depth-0 challenge-paper-btn" role="button" target="_blank">Certificate</a></span>
+- **TopBrain2025 Challenge** <em>(Multi-Class Brain Vessel Segmentation, MICCAI 2025)</em> <span class="awards-links"><a href="https://www.medrxiv.org/content/10.64898/2026.05.28.26354312v1" class="btn btn-sm z-depth-0 challenge-paper-btn" role="button" target="_blank">Paper</a> <a href="./assets/pdf/topbrain.pdf" class="btn btn-sm z-depth-0 challenge-paper-btn" role="button" target="_blank">Certificate</a></span>
 
 &emsp; &emsp; 🥇 **1st Place** on both MRA and CTA tasks
 
