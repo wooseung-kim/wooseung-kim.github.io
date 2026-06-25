@@ -1,9 +1,29 @@
 sections:
+  - subtitle: Preprints
+    items:
+      - title: Unsupervised Susceptibility Distortion Correction of EPI without Calibration Scans via Image Translation-Based Registration
+        authors: <strong>Wooseung Kim</strong> and Sung-Hong Park
+        # conference_short: IEEE-JBHI
+        # conference: NMR in Biomedicine, 2026
+        pdf: https://arxiv.org/abs/2606.21588
+        # code: https://github.com/wooseung-kim/InnerEar-Seg
+        # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+        bibtex: ./assets/bibtex/sacred.txt
+
   - subtitle: Journal Articles
     items:
+      - title: Virtual 1-hour delayed post-contrast 3D heavily T2-weighted FLAIR from 10-minute delayed post-contrast scans using a deep learning model: preliminary study for inner ear application
+        authors: Yeonah Kang,Woojin Chung, Seokhwan Lee, <strong>Wooseung Kim</strong>, Yoonho Nam, and Ho-Joon Lee
+        # conference_short: NMR
+        conference: NMR in Biomedicine, 2026 (Under Review)
+        # pdf: https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.70266
+        # code: https://github.com/wooseung-kim/InnerEar-Seg
+        # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+        # bibtex: ./assets/bibtex/nmr.txt
+
       - title: Deep Learning-Based Inner Ear Subregion Segmentation in 3D T2-Weighted MRI Using Label-Preserving Data Augmentation
         authors: <strong>Wooseung Kim</strong>, Yeonah Kang, Seokhwan Lee, Ho-Joon Lee, and Yoonho Nam
-        # conference_short: iMRI
+        # conference_short: NMR
         conference: NMR in Biomedicine, 2026
         pdf: https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.70266
         code: https://github.com/wooseung-kim/InnerEar-Seg
@@ -21,6 +41,16 @@ sections:
 
   - subtitle: Conference Papers
     items:
+      - title: SACRED: Susceptibility Artifact Correction without Reverse phase-encoding for EPI using Deep learning
+        authors: <strong>Wooseung Kim</strong> and Sung-Hong Park
+        conference_short: ISMRM
+        conference: International Society for Magnetic Resonance in Medicine (ISMRM), 2026
+        pdf: https://echo.ismrm.org/abstracts/view/42bfb763-f4b2-4bf6-aca8-59aa9cba679f
+        # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+        # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+        # notes: Oral presentation
+        bibtex: ./assets/bibtex/ismrm2026.txt
+
       - title: Deep Learning-Based Topology-Preserving Inner Ear Subregion Segmentation in MRI
         authors: <strong>Wooseung Kim</strong>, Dayeon Bak, Yeonah Kang, Ho-Joon Lee, and Yoonho Nam
         conference_short: ISMRM

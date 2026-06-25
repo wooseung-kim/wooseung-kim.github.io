@@ -1,0 +1,11 @@
+@inproceedings{Kim2026_42bfb763,
+  title = {SACRED: Susceptibility Artifact Correction without Reverse phase-encoding for EPI using Deep learning},
+  author = {Kim, Wooseung and Park, Sung-Hong},
+  booktitle = {Cape Town - 2026 ISMRM-ISMRT Annual Meeting and Exhibition},
+  year = {2026},
+  month = {May},
+  address = {Cape Town, South Africa},
+  organization = {ISMRM},
+  note = {Program Number: 661-03-010},
+  url = {http://echo.ismrm.org/abstracts/view/42bfb763-f4b2-4bf6-aca8-59aa9cba679f}
+}

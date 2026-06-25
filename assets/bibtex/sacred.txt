@@ -1,0 +1,9 @@
+@misc{kim2026unsupervisedsusceptibilitydistortioncorrection,
+      title={Unsupervised Susceptibility Distortion Correction of EPI without Calibration Scans via Image Translation-Based Registration}, 
+      author={Wooseung Kim and Sung-Hong Park},
+      year={2026},
+      eprint={2606.21588},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2606.21588}, 
+}
