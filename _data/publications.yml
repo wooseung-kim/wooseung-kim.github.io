@@ -12,7 +12,7 @@ sections:
 
   - subtitle: Journal Articles
     items:
-      - title: Virtual 1-hour delayed post-contrast 3D heavily T2-weighted FLAIR from 10-minute delayed post-contrast scans using a deep learning model: preliminary study for inner ear application
+      - title: "Virtual 1-hour delayed post-contrast 3D heavily T2-weighted FLAIR from 10-minute delayed post-contrast scans using a deep learning model: preliminary study for inner ear application"
         authors: Yeonah Kang,Woojin Chung, Seokhwan Lee, <strong>Wooseung Kim</strong>, Yoonho Nam, and Ho-Joon Lee
         # conference_short: NMR
         conference: NMR in Biomedicine, 2026 (Under Review)
