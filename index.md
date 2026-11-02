@@ -4,12 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am an M.S. student in the [MRI Lab](https://mri.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/).
+I am an M.S. student in the [MRI Lab](https://mri.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/), graduating in Feb. 2027.
+
+I build deep learning models for 2D and 3D image analysis that hold up under real-world constraints: scarce or noisy labels, tiny and highly imbalanced targets, and distribution shift across acquisition devices. Recently, I have worked on MRI distortion correction that needs no extra calibration scan, and on brain vessel segmentation that won 1st place in both tracks of the MICCAI 2025 TopBrain Challenge. I like to work end to end, from data and training pipelines to Dockerized inference.
 
 ## Research Interests
 
-- **Medical Image Analysis:** MRI, Segmentation, Registration
-- **Computer Vision:** Image-to-image translation, Generative models
+- **Computer Vision:** Semantic segmentation, Deformable registration, Image-to-image translation, Generative models
+- **Label-Efficient Learning:** Self-supervised and unsupervised learning, Learning from limited and noisy labels
+- **Robustness:** Small and thin structures under class imbalance, Domain shift across devices
 
 <!-- ## News -->
 
@@ -18,7 +21,7 @@ I am an M.S. student in the [MRI Lab](https://mri.kaist.ac.kr/) at [KAIST](https
 ## Education
 
 - **KAIST, Bio & Brain Engineering Master's degree**  
-&emsp; Mar.2025 -- Current
+&emsp; Mar.2025 -- Feb.2027 (expected)
 - **HUFS, Biomedical Engineering Bachelor's degree**  
 &emsp; Mar.2018 -- Feb.2025 (Military Service 2020-2021)
 
